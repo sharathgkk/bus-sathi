@@ -1,0 +1,6 @@
+{
+  "name": "MysuruBus Saathi",
+  "description": "Smart companion for KSRTC City buses in Mysuru. Real-time routes, crowd, fares, bus timings, digital passes, and lost & found.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
